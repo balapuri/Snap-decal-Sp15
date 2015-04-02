@@ -23,3 +23,9 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+_______________________________
+
+Maya Reddy and Juchan Kim
+
+We will add a share button to the cloud menu. When you click on it, a dialog box will pop up. The dialog box will have a field for a username (the person to you want to share with). When you click 'OK', your project will show up in their project list when they open snap.
